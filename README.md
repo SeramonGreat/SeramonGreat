@@ -1,0 +1,7 @@
+- 👋 Hi, I’m SeramonGreat
+- 👀 I'm interested in creating new technology that will affect the world, I'm also a sadist. 
+- 🌱 I am currently learning programming languages such as python, java and C# by a little and personal destruction  
+- 💞️ I want to work with big companies to build nuclear weapons or weapons of mass destruction 
+- 📫 How do I get in touch with you? It's easy to send a message by mail, maybe the owl will fly faster, but I won't be able to reply right away because I have class at Hogwarts. 
+- 😄 Pronouns: What was I even supposed to put in here?
+- ⚡ Fun fact: I'm Russian, it's true, I'm in my basement with my kids learning how to build nukes for a candy bar. 
