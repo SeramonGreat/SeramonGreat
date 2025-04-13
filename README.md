@@ -1,11 +1,37 @@
 <!-- Анимированный титул с последовательным выводом строк -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00AAFF&width=600&lines=SeramonGreat;Разработчик+Stellar+OS;Участник+НТО+2025" alt="Typing animation">
+<div align="center" style="margin: 0 auto; display: flex; justify-content: center; align-items: center;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00AAFF&width=600&lines=SeramonGreat;Разработчик+Stellar+OS;Участник+НТО+2025" alt="Typing animation" style="display: block; margin: 0 auto;">
 </div>
 
 <!-- Аватарка с эффектами -->
 <div align="center">
   <img src="https://imgur.com/exeUtDL.png" width="200" alt="Серафим" style="border-radius: 50%; border: 3px solid #6e48aa; box-shadow: 0 0 20px rgba(110, 72, 170, 0.6);">
+</div>
+
+```mermaid
+mindmap
+  root((Мои навыки))
+    Программирование
+      Python
+      C/C++
+      Java
+      Rust
+    Системное ПО
+      Ядра ОС
+      Драйверы
+      Виртуализация
+    ИИ/ML
+      NLP
+      CV
+      GAN
+    DevOps
+      Docker
+      Kubernetes
+      CI/CD
+```
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6E48AA&width=550&lines=Каждый+живет+в+своем+времени;Время+кода+—+мое+время;Stellar+OS+—+мой+след+в+истории" alt="Мотивация">
 </div>
 
 ## 🚀 **Обо мне**  
