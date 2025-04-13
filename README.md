@@ -1,5 +1,5 @@
 <!-- Анимированный титул с последовательным выводом строк -->
-<div align="center" style="margin: 0 auto; display: flex; justify-content: center; align-items: center;">
+<div align="right" style="margin: 0 auto; display: flex; justify-content: center; align-items: center;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00AAFF&width=600&lines=Добро+пожаловать!;Меня+зовут+SeramonGreat, и+я...;Разработчик+Stellar;Участник+НТО+2025" alt="Typing animation" style="display: block; margin: 0 auto;">
 </div>
 
