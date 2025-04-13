@@ -1,12 +1,26 @@
 <!-- Анимированный титул с последовательным выводом строк -->
 <div align="center" style="margin: 0 auto; display: flex; justify-content: center; align-items: center;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00AAFF&width=600&lines=SeramonGreat;Разработчик+Stellar+OS;Участник+НТО+2025" alt="Typing animation" style="display: block; margin: 0 auto;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00AAFF&width=600&lines=Добро+пожаловать!;Меня+зовут+SeramonGreat, и+я...;Разработчик+Stellar;Участник+НТО+2025" alt="Typing animation" style="display: block; margin: 0 auto;">
 </div>
 
-<!-- Аватарка с эффектами -->
-<div align="center">
-  <img src="https://imgur.com/exeUtDL.png" width="200" alt="Серафим" style="border-radius: 50%; border: 3px solid #6e48aa; box-shadow: 0 0 20px rgba(110, 72, 170, 0.6);">
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <!-- Аватарка -->
+      <img src="https://imgur.com/exeUtDL.png" width="200" style="border-radius: 50%; border: 3px solid #6e48aa; box-shadow: 0 0 20px rgba(110, 72, 170, 0.6);">
+    </td>
+    <td>
+      <!-- Текстовая часть -->
+      <h2 style="color: #00AAFF; margin: 0; padding: 0;">SeramonGreat</h2>
+      <p style="color: #6E48AA; margin-top: 8px; font-size: 18px; line-height: 1.5;">
+        🚀 Разработчик Stellar OS<br>
+        💻 Создаю будущее через код<br>
+        🤖 AI/ML | 🏆 НТО 2025<br>
+        ✨ Инноватор России!
+      </p>
+    </td>
+  </tr>
+</table>
 
 ```mermaid
 mindmap
