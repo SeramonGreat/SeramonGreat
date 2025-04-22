@@ -1,6 +1,6 @@
-<!-- Анимированный титул с последовательным выводом строк -->
-<div align="right" style="margin: 0 auto; display: flex; justify-content: center; align-items: center;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00AAFF&width=600&lines=Добро+пожаловать!;Меня+зовут+SeramonGreat;И+я...;Разработчик+Stellar;Инноватор+России ;Участник+НТО+2025" alt="Typing animation" style="display: block; margin: 0 auto;">
+<!-- Анимированный титул -->
+<div align="left" style="margin: 0 auto; display: flex; justify-content: center; align-items: center;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00AAFF&width=600&lines=Добро+пожаловать!;Меня+зовут+SeramonGreat;И+я...;Разработчик+Stellar!;Инноватор+России!;Участник+НТО+2025" alt="Typing animation">
 </div>
 
 <table align="center">
@@ -44,8 +44,8 @@ mindmap
       CI/CD
 ```
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6E48AA&width=550&lines=Каждый+живет+в+своем+времени;Время+кода+—+мое+время;Проектыr+—+мой+след+в+истории" alt="Мотивация">
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6E48AA&width=550&lines=Каждый+живет+в+своем+времени;Время+кода+—+мое+время;Проекты+—+мой+след+в+истории" alt="Мотивация">
 </div>
 
 ## 🚀 **Обо мне**  
@@ -120,7 +120,7 @@ mindmap
 <!-- Интерактивные карточки с hover-эффектами -->
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00DDFF&background=45FF8B00&center=true&vCenter=true&width=500&height=80&lines=🚀+Senior+Dev;💻+OS+Architect;🧠+AI+Researcher" alt="Roles Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00DDFF&background=45FF8B00&vCenter=true&width=500&height=80&lines=🚀+Senior+Dev;💻+OS+Architect;🧠+AI+Researcher" alt="Roles Animation">
   </a>
 </div>
 
@@ -211,8 +211,8 @@ print("Stellar AI is ready! 🚀")
 ```
 
 ## 🚀 **Вперед к новым горизонтам!**
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&width=800&lines=Вместе+к+звёздам!+🚀;Stellar+OS+—+будущее+уже+здесь" alt="Cosmic Typing">
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&width=800&lines=Вместе+к+звёздам!+🚀;Stellar+OS+—+будущее+уже+здесь" alt="Cosmic Typing">
 </div>
 
 💫 **Благодарю за посещение моего профиля!**  
