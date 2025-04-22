@@ -45,7 +45,7 @@ mindmap
 ```
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6E48AA&width=550&lines=Каждый+живет+в+своем+времени;Время+кода+—+мое+время;Проекты+—+мой+след+в+истории" alt="Мотивация">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6E48AA&width=550&lines=Каждый+живет+в+своем+времени;Время+кода+—+мое+время;Проекты+—+мой+след+в+истории" alt="Мотивация">
 </div>
 
 ## 🚀 **Обо мне**  
@@ -118,7 +118,7 @@ mindmap
 💸 **Поддержать разработку:** [GitHub Sponsors](https://github.com/sponsors/SeramonGreat)
 
 <!-- Интерактивные карточки с hover-эффектами -->
-<div align="center">
+<div align="left">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00DDFF&background=45FF8B00&vCenter=true&width=500&height=80&lines=🚀+Senior+Dev;💻+OS+Architect;🧠+AI+Researcher" alt="Roles Animation">
   </a>
